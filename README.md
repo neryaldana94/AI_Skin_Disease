@@ -24,7 +24,7 @@ We used the Xception architecture to build our skin lesion diagnosis model. Our 
 Our best model achieved an accuracy of 87% on the test set. We also evaluated our model using various metrics, including the confusion matrix, accuracy and loss histograms, and classification report.
 
 
-##     <p align = "left"> Our project consists of the following files: </p>
+##     <p align = "left"> The project consists of the following files: </p>
 •	preprocessing.py: This code loads the entire dataset, perform the required image preprocessing, and splits the images into train, validation and test sets.
 
 •	sets_visualization.py: This code used to show the distribution of the different skin lesions' types through the train, validation and test sets.
